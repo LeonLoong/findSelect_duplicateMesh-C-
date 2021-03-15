@@ -7,6 +7,7 @@ The plug-in can help you select duplicate objects, and then you can choose to de
 2. Extract in here C:\Program Files\Autodesk\Maya2018\devkit\devkitBase\devkit\
 3. Download ZIP and extract into C:\Program Files\Autodesk\Maya2018\devkit\devkitBase\devkit\plug-ins\detectDoubleMesh
 4. Compile in Visual Studio 2017.
+
 ![2021-03-15 16_47_37-Window](https://user-images.githubusercontent.com/11975617/111126942-37afbd80-85ae-11eb-9ed4-feccf9ca660c.png)
 
 
