@@ -1,3 +1,5 @@
+# Find & Select Double/Duplicate Mesh
+
 ### Introduction
 Modify and recompile from  [@vaishakbabu]( https://github.com/vaishakbabu/DoubleMesh ) DoubleMesh code. To make it work on specified Maya version.
 The plug-in can help you select duplicate objects, and then you can choose to delete them to ensure that the scene file is clean and optimize.
