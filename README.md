@@ -1,5 +1,6 @@
 ### Introduction
 Modify and recompile from  [@vaishakbabu]( https://github.com/vaishakbabu/DoubleMesh ) DoubleMesh code. To make it work on specified Maya version.
+The plug-in can help you select duplicate objects, and then you can choose to delete them to ensure that the scene file is clean and optimize.
 
 ### Recompile
 1. Download Maya devkit from https://www.autodesk.com/developer-network/platform-technologies/maya
